@@ -1,13 +1,16 @@
 body{
-    background-color:sandybrown;
+    background-color:#f4f1de;
     padding: 0px;
     border: 0px;
     margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
 
 
 .header-nav{
-    background-color: peru;
+    background-color: #e07a5f;
     height: 20%;
     justify-content: flex-start;
     width: 100%;
@@ -18,25 +21,33 @@ body{
     
 }
 
+.page-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
 .landing{
-    background-color:wheat;
+    background-color:#81b29a;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    padding: 0px;
+    justify-content: space-between;
     width: 100%;
     height: 70%;
     margin: 0px;
     border: 0px;
+    padding: 0px;
 }
 
 .article-box{
 width: 500px;
 height: 500px;
 margin: 0px;
-background: seagreen;
+background: #f2cc8f;
 box-sizing: border-box;
-margin: 20px;
+margin: 30px;
 display: inline-block;
 border: 0px;
 padding: 0px;
@@ -49,9 +60,9 @@ align-items: center;
     width: 500px;
     height: 500px;
     margin: 0px;
-    background: seagreen;
+    background: #f2cc8f;
     box-sizing: border-box;
-    margin: 20px;
+    margin: 30px;
     display: inline-block;
     display: flex;
     flex-direction: column;
@@ -68,19 +79,60 @@ align-items: center;
     padding: 0px;
 }
 
-.buttons-for-external-links{
+.external-links{
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     padding: 20px;
 
 }
 
+.button-ex-links{
+    font-size: 15px;
+    background-color: #e07a5f;
+}
+    
+
 
 .footer{
     height: 10%;
-    background: grey;
+    background: #3d405b;
     padding: 0px;
     border: 0px;
     margin: 0px;
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.resume-button{
+    background-color: #e07a5f;
+    font-size: 20px;
+
+}
+
+/*Ipad*/   
+
+
+@media only screen and (max-width: 768px) {
+    .my-photo{
+        width: 300px;
+        height: 300px;
+        margin: 0px;
+        border: 0px;
+        padding: 0px;
+    }
+  }
+
+
+  /* Iphone */
+
+  @media only screen and (max-width: 375px) {
+    .my-photo{
+        width: 150px;
+        height: 150px;
+        margin: 0px;
+        border: 0px;
+        padding: 0px;
+    }
+  }
