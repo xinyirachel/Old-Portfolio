@@ -9,7 +9,7 @@
 </head>
 <body>
      <!--header-->  
-     <header class="header">
+     <header class="header-nav">
         <nav>
         <ul>
             <li class="header-buttons"><a href="blog.html">Blogs</a></li>
@@ -17,31 +17,27 @@
             <li class="header-buttons"><a href="../index.html">Home</a></li>
         </ul>
         </nav>
-       
+        <div class="page-title">
+          <h1>🌼Send me a message :3🌸</h1>
+      </div>
     </header>
     <!--Send me message>-->
-    <div>
-        <h1>Send me a message :3</h1>
-    </div>
+   
     
-    <div class="contact-me-form">
-        <form
-  action="https://formspree.io/f/xnqleadb"
-  method="POST">
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <br></br>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
+  <section class="contact-me-form">
+    <form action="https://formspree.io/f/xnqleadb" method="POST">
+        <label> Enter your email:
+          <input type="email" name="_replyto">
+        </label>
+          <br></br>
+        <label> Your message:
+          <textarea name="message">
+          </textarea>
+        </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
-
-    </div>
+        <button class="send-me-button" type="submit">Send</button>
+    </form>
+  </section>
 
 </body>
 </html>
