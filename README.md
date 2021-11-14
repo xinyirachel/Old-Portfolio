@@ -21,25 +21,25 @@ There are 4 pages: home (index), blog, projects and contact.
 
 ### Screenshots
 
-![Home page on computer](docs/screenshots/Home-page-wide-browser.png)
+![Home page on computer](docs/Home-page-wide-browser.png)
 
-![Home page on narrower window and ipad](docs/screenshots/Home-page narrow-fit-ipad.png)
+![Home page on narrower window and ipad](docs/Home-page narrow-fit-ipad.png)
 
-![Home page on iphone](docs/screenshots/Home-page-on-phone.png)
+![Home page on iphone](docs/Home-page-on-phone.png)
 
-![Links buttons color will changed on hover](docs/screenshots/button-that-chang-color.png)
+![Links buttons color will changed on hover](docs/button-that-chang-color.png)
 
-![Blog page on computer](docs/screenshots/blog-page-on-wide-browser.png)
+![Blog page on computer](docs/blog-page-on-wide-browser.png)
 
-![Blog page on iphone](docs/screenshots/blog-page on-iphone.png)
+![Blog page on iphone](docs/blog-page on-iphone.png)
 
-![Project page on computer](docs/screenshots/project-page-wide-browser.png)
+![Project page on computer](docs/project-page-wide-browser.png)
 
-![Project page on narrower window and ipad](docs/screenshots/project-page narrow-fit-ipad.png)
+![Project page on narrower window and ipad](docs/project-page narrow-fit-ipad.png)
 
-![Project page on iphone](docs/screenshots/project-page on-iphone.png)
+![Project page on iphone](docs/project-page on-iphone.png)
 
-![Contact me page](docs/screenshots/contact-me-page.png)
+![Contact me page](docs/contact-me-page.png)
 
 ![wireframs](docs/wireframes/main-page.png)
 ![](docs/wireframes/My-projects.png)
@@ -59,3 +59,4 @@ There are 4 pages: home (index), blog, projects and contact.
 - Building wireframs using diagrams.net
 - Choosing palettes on Coolers
 - Deployed on Netlify
+- Formspree
