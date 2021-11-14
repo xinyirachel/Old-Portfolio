@@ -1,6 +1,6 @@
 # T1A2 Portfolio
 
-- [Link to website](https://)
+- [Link to website](https://rachelxinyiperonalwebsite.netlify.app/)
 
 - [Link to Repo](https://github.com/xinyirachel/Portfolio)
 
