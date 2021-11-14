@@ -1,0 +1,71 @@
+commit ba09c371885b0a2625915f5debd74ce5dbb0a8af
+Author: Xinyi imac <xinyi-imac@192-168-1-106.tpgi.com.au>
+Date:   Sun Nov 14 19:52:56 2021 +1100
+
+    12th commit fix pic size on blog and project page on phone
+
+commit 8b943927bb984f0938fe9d03713c22b25cb503bb
+Author: Xinyi imac <xinyi-imac@192-168-1-106.tpgi.com.au>
+Date:   Sun Nov 14 19:42:08 2021 +1100
+
+    11th fix resume link
+
+commit 68da6d23ed16154407767d7c9e0c49e2705d973a
+Author: Xinyi imac <xinyi-imac@192-168-1-106.tpgi.com.au>
+Date:   Sun Nov 14 19:34:54 2021 +1100
+
+    10th finish deployment
+
+commit d794aa1127fe9460812a1d155fcc76f3892b266a
+Author: Xinyi imac <xinyi-imac@192-168-1-106.tpgi.com.au>
+Date:   Sun Nov 14 18:31:01 2021 +1100
+
+    9th commit fixed markdown file
+
+commit 3f18d02ee3ad506228085b3d0837ee903b6798d1
+Author: Xinyi imac <xinyi-imac@192-168-1-106.tpgi.com.au>
+Date:   Sun Nov 14 18:25:19 2021 +1100
+
+    8th commit
+
+commit a86f78f3f0a86a0a8390489725fbf7c926cdeb9c
+Author: Xinyi imac <xinyi-imac@192-168-1-106.tpgi.com.au>
+Date:   Sun Nov 14 18:13:43 2021 +1100
+
+    7th commit add README file
+
+commit 96e1e15dc856b41b517810393bdf9a0a0b1aefb7
+Author: Xinyi imac <xinyi-imac@192-168-1-106.tpgi.com.au>
+Date:   Sun Nov 14 15:59:43 2021 +1100
+
+    6th commit
+
+commit 38d3998eaf47c7d5b4b6124e532e6b300214df42
+Author: Xinyi imac <xinyi-imac@192-168-1-106.tpgi.com.au>
+Date:   Sun Nov 14 02:38:30 2021 +1100
+
+    5th commit
+
+commit 89f056bd9a68c4916da1829fd804745615e71cc1
+Author: Xinyi imac <xinyi-imac@192-168-1-106.tpgi.com.au>
+Date:   Sat Nov 13 20:44:49 2021 +1100
+
+    4th commit
+
+commit 0f37e40f3cf4cbcfa101c2de3ca171801bb571de
+Author: Xinyi imac <xinyi-imac@192-168-1-106.tpgi.com.au>
+Date:   Sat Nov 13 19:33:31 2021 +1100
+
+    3rd commit
+
+commit 7cd2de6733635e3b716c76fe4c063c5ef07953f5
+Author: Xinyi imac <xinyi-imac@192-168-1-106.tpgi.com.au>
+Date:   Thu Nov 11 17:34:24 2021 +1100
+
+    2nd commit
+
+commit 078b84f574988c0897ef6c09441059cdde480ad7
+Author: Xinyi imac <xinyi-imac@192-168-1-106.tpgi.com.au>
+Date:   Thu Nov 11 17:27:37 2021 +1100
+
+    first commit
