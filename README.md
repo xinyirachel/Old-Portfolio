@@ -23,7 +23,7 @@ There are 4 pages: home (index), blog, projects and contact.
 
 ![Home page on computer](docs/Home-page-wide-browser.png)
 
-![Home page on narrower window and ipad](docs/Home-page narrow-fit-ipad.png)
+![Home page on narrower window and ipad](docs/Home-page-narrow-fit-ipad.png)
 
 ![Home page on iphone](docs/Home-page-on-phone.png)
 
@@ -31,20 +31,16 @@ There are 4 pages: home (index), blog, projects and contact.
 
 ![Blog page on computer](docs/blog-page-on-wide-browser.png)
 
-![Blog page on iphone](docs/blog-page on-iphone.png)
+![Blog page on iphone](docs/blog-page-on-iphone.png)
 
 ![Project page on computer](docs/project-page-wide-browser.png)
 
-![Project page on narrower window and ipad](docs/project-page narrow-fit-ipad.png)
+![Project page on narrower window and ipad](docs/project-page-narrow-fit-ipad.png)
 
-![Project page on iphone](docs/project-page on-iphone.png)
+![Project page on iphone](docs/project-page-on-iphone.png)
 
 ![Contact me page](docs/contact-me-page.png)
 
-![wireframs](docs/wireframes/main-page.png)
-![](docs/wireframes/My-projects.png)
-![](docs/wireframes/Blog.png)
-![](docs/wireframes/Contact.png)
 
 ### Target Audience
 
