@@ -1,6 +1,6 @@
 # T1A2 Portfolio
 
-- [Link to website] 
+This is the old version of my portfolio, and it's also my first project. I no longer use this.
 
 - [Link to Repo](https://github.com/xinyirachel/Portfolio)
 
